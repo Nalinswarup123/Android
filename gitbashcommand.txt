@@ -1,0 +1,5 @@
+create a new file
+git init
+git remote add origin https://github.com/Nalinswarup123/Android.git
+git pull
+git checkout master
